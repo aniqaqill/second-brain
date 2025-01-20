@@ -33,7 +33,8 @@ Here are the key Docker concepts you need to know:
 - Serve as the building blocks for containers.
 - Can be pulled from public or private repositories (e.g., Docker Hub).
 
-### **Container**
+### **Container** 
+
 - A runtime instance of a Docker image.
 - Packages an application’s code, dependencies, and libraries.
 - Solves the "it works on my machine" problem by ensuring consistency across environments.

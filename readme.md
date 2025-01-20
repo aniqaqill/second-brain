@@ -89,10 +89,5 @@ Here are some ideas for future topics you can add:
 
 ## **Quick Navigation**
 - [Docker](./docker/overview.md)  
-<!-- 
-- [Golang](./golang/overview.md)  
-- [Kubernetes](./kubernetes/overview.md)  
-- [Terraform](./terraform/overview.md)  
-- [CI/CD Pipelines](./ci-cd/github-actions.md) 
--->
+
 
