@@ -15,4 +15,4 @@ include:
   - readme.md
   - license.md
 
-theme: just-the-docs
+theme: jekyll-theme-tactile
