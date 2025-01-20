@@ -1,4 +1,7 @@
-title: "second brain"
-description: "A bunch of Aniq's notes and write ups about tech and anything I find interesting"
-
+title: "Second Brain"
+description: "A bunch of Aniq's notes and write-ups about tech and anything I find interesting"
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
