@@ -9,4 +9,4 @@ remote_theme: pages-themes/hacker@v0.2.0
 
 assets:
   sources:
-    - _assets/css/custom.css
+    - _assets/css/style.scss
