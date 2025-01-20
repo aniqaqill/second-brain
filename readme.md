@@ -1,5 +1,5 @@
-# Notes of and Blogs
+Notes of and Blogs built with Jekkyl Themes
 
-[theme source](https://pages-themes.github.io/hacker/)
+
 
 

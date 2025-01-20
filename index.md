@@ -86,7 +86,5 @@ Here are some ideas for future topics you can add:
 - **Databases**: PostgreSQL, MongoDB, Redis. -->
 
 
-## **Quick Navigation**
-- [Docker](./docker/overview.md)  
 
 
