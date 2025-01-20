@@ -13,5 +13,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - readme.md
+  - license.md
 
-theme: jekyll-theme-minimal
+theme: just-the-docs
