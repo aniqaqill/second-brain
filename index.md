@@ -1,7 +1,3 @@
-# **Second Brain**
-
-A place where I dump my notes & learning 
-
 ## **List of Content**
 
 ### **1. Docker**
