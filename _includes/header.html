@@ -1,15 +1,11 @@
 <header class="site-header">
-  <div class="wrapper">
-    <!-- Replace the site title with your favicon and a tagline -->
-    <a class="site-title" href="{{ "/" | relative_url }}">
-      <img src="{{ '/assets/images/favicon.ico' | relative_url }}" alt="Favicon" width="32" height="32">
-      <span class="tagline">aniqaqil 2nd Brain</span>
-    </a>
-
-    <nav class="site-nav">
-      {% for link in site.navigation %}
-        <a class="page-link" href="{{ link.url | relative_url }}">{{ link.title | escape }}</a>
-      {% endfor %}
-    </nav>
-  </div>
-</header>
+    <div class="wrapper">
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  
+      <nav class="site-nav">
+        {% for link in site.navigation %}
+          <a class="page-link" href="{{ link.url | relative_url }}">{{ link.title | escape }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
