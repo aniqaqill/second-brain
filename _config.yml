@@ -11,7 +11,9 @@ plugins:
 navigation:
   - title: "Home"
     url: "/"
-  - title: "Docker Overview"
-    url: "./docker/overview.html"
   - title: "About"
     url: "./about.html"
+  - title: "Portfolio"
+    url: "https://www.aniqaqil.xyz/"
+  - title: "Github"
+    url: "https://github.com/aniqaqill/second-brain"
