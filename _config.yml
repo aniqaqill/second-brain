@@ -1,6 +1,4 @@
 title: "second brain"
 description: "A bunch of Aniq's notes and write ups about tech and anything I find interesting"
 
-remote_theme: pages-themes/primer@latest
-plugins:
-  - jekyll-remote-theme
+theme: minima
