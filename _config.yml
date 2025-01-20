@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme 
 relative_links:
   enabled: true
   collections: true
@@ -15,4 +16,4 @@ include:
   - readme.md
   - license.md
 
-theme: jekyll-theme-tactile
+remote_theme: pages-themes/hacker@v0.2.0
