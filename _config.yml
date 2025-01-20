@@ -2,6 +2,11 @@ title: [Aniq's Second Brain]
 description: [A place where I dump my notes & learning]
 
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
+  - jekyll-assets
 
 remote_theme: pages-themes/hacker@v0.2.0
+
+assets:
+  sources:
+    - _assets/css/custom.css
