@@ -1,9 +1,9 @@
 # Setup
 title:               second brain
-tagline:             'A sub-part of <a href="https://www.aniqaqil.xyz/" target="_blank">Aniq's Websites</a>'
-description:         'A sub-part of  <a href="https://www.aniqaqil.xyz/" target="_blank">Aniq's Websites</a> that places most of the notes and write-ups. Made by <a href="https://x.com/fmt_aniq" target="_blank">@fmt_aniq</a>.'
+tagline:             "A sub-part of <a href='https://www.aniqaqil.xyz/' target='_blank'>Aniq's Websites</a>"
+description:         "A sub-part of <a href='https://www.aniqaqil.xyz/' target='_blank'>Aniq's Websites</a> that places most of the notes and write-ups. Made by <a href='https://x.com/fmt_aniq' target='_blank'>@fmt_aniq</a>."
 url:                 https://www.aniqaqil.xyz/
-baseurl:             ''
+baseurl:             ""
 paginate:            1
 permalink:           pretty
 
