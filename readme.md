@@ -9,7 +9,8 @@ Explore everything about Docker, from basics to advanced concepts.
 
 1.1. **[Overview](./docker/overview.md)**  
 
-<!-- 1.2. **[Dockerfile](./docker/dockerfile.md)**  
+<!-- 
+1.2. **[Dockerfile](./docker/dockerfile.md)**  
 
 1.3. **[Docker Compose](./docker/docker-compose.md)**  
 
@@ -88,8 +89,10 @@ Here are some ideas for future topics you can add:
 
 ## **Quick Navigation**
 - [Docker](./docker/overview.md)  
-<!-- - [Golang](./golang/overview.md)  
+<!-- 
+- [Golang](./golang/overview.md)  
 - [Kubernetes](./kubernetes/overview.md)  
 - [Terraform](./terraform/overview.md)  
-- [CI/CD Pipelines](./ci-cd/github-actions.md) -->
+- [CI/CD Pipelines](./ci-cd/github-actions.md) 
+-->
 

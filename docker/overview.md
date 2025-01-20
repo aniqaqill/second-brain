@@ -9,7 +9,6 @@ Docker is not just for deployment—it’s also a powerful tool for **developmen
 - Experiment without risking the stability of the host system.
 
 ---
-
 ## **Docker Security**
 While containerization has existed for decades, Docker (introduced in 2013) popularized it, making it a cornerstone of modern development. However, with its adoption comes the need for robust security practices. Here’s why container security is critical:
 
