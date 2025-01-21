@@ -1,21 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  {% include head-custom.html %}
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <title>{{ site.title }}</title>
+  </head>
   <body>
     <header class="site-header">
       <div class="wrapper">
-        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-        <nav class="site-nav">
-          {% for link in site.navigation %}
-            <a class="page-link" href="{{ link.url | relative_url }}">{{ link.title | escape }}</a>
-          {% endfor %}
-        </nav>
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
       </div>
     </header>
     <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
+      {{ content }}
     </div>
   </body>
 </html>
