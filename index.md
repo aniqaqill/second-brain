@@ -8,7 +8,7 @@ layout: default
 
 ## List of Contents
 
-1. **[Docker Overview](./docker/overview.md)**  
+1. **[Docker](./docker/overview.md)**  
 2. **[Golang](./golang/overview.md)**
 3. **[Python](./python/overview.md)**
 
