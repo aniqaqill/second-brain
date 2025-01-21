@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/overview.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for overview"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/overview.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from overview"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/overview.md"
+                "file": "readme.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of overview"
+              "title": "Outline of readme"
             }
           }
         ]
@@ -180,6 +180,10 @@
   "active": "14357f66e68db0e7",
   "lastOpenFiles": [
     "docker/built a dockerfile.md",
-    "docker/overview.md"
+    "docker/overview.md",
+    "python/overview.md",
+    "about.md",
+    "index.md",
+    "readme.md"
   ]
 }

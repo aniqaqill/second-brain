@@ -1,3 +1,4 @@
+## Built a Dockerfile
 ![Anatomy of Dockerfile](../image/image.png)
 
 ### **Docker Compose**: 
