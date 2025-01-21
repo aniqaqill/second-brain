@@ -20,12 +20,25 @@ body {
 
 /* Responsive styles */
 @media (max-width: 768px) {
+  .site-header {
+    padding: 10px 0;
+  }
+
   .site-nav {
     flex-direction: column;
     align-items: flex-start;
+    background-color: #f9f9f9; 
+    width: 100%; 
+    padding: 10px 0; 
   }
 
   .site-nav a {
-    padding: 10px 0;
+    padding: 10px 20px; 
+    width: 100%; 
+    box-sizing: border-box; 
+  }
+
+  .site-title {
+    margin-bottom: 10px; 
   }
 }
