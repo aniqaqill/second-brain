@@ -5,9 +5,8 @@ description: "An overview of Docker and containerization."
 ---
 
 ### List of Content
-- [Overview](./overview.md)
-    - [Built a Dockerfile](./dockerfiles.md)
-    - [etc]()
+- [Built a Dockerfile](./dockerfiles.md)
+- [Docker Compose Up]()
 
 ## **Overview**
 Docker is a platform for building, shipping, and running applications using **containerization**. It allows developers to package applications and their dependencies into lightweight, portable containers that can run consistently across different environments. Containers are isolated from the host system and other containers, providing a secure and consistent runtime environment. Due to their lightweight nature, containers are highly efficient and can be spun up or torn down in seconds.
