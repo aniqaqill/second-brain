@@ -14,8 +14,6 @@ plugins:
 navigation:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: "./about.html"
   - title: "Portfolio ↗️"
     url: "https://www.aniqaqil.xyz/"
   - title: "Github ↗️"

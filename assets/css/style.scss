@@ -1,38 +1,7 @@
+
 @import "minima";
 
-// Your custom SCSS below
+// Add your custom CSS below
 body {
   font-family: Arial, sans-serif;
-}
-
-.site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-}
-
-.site-nav a {
-  padding: 10px;
-  text-decoration: none;
-  color: #333;
-}
-
-@media (max-width: 768px) {
-  .site-nav {
-    flex-direction: column;
-    align-items: flex-start;
-    background-color: #f9f9f9;
-    width: 100%;
-    padding: 10px 0;
-  }
-
-  .site-nav a {
-    padding: 10px 20px;
-    width: 100%;
-    box-sizing: border-box;
-  }
-
-  .site-title {
-    margin-bottom: 10px;
-  }
 }
