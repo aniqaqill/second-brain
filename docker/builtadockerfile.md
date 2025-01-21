@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Built a Dockerfile
 ![Anatomy of Dockerfile](../image/image.png)
 
