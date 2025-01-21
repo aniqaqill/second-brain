@@ -16,4 +16,6 @@ Let's get started.
 
 As we can see, it consists of a few sections like **FROM, WORKDIR, COPY/ADD, RUN, EXPOSE, CMD/ENTRYPOINT**. Each of these has its own usage, as mentioned in the image.
 
-So, I'm trying to understand what each of these actually does and what's the best way to initialize it.
+So, I'm trying to understand what each of these actually does and what's the best way to initialize it. 
+
+tbc..
