@@ -26,8 +26,6 @@ Here are the topics I’ve covered so far:
 
 4. **[Python](./topics/python/overview.md)** - Python tips
 
----
-
 ## Contributing
 
 If you find any errors, have suggestions, or want to add your own notes, feel free to:
