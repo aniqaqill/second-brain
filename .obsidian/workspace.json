@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c260a35603bc286",
+        "id": "f29d6527c13d1eea",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0706abe0a48755",
+            "id": "db943dd72b0b0804",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/built a dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "built a dockerfile"
+              "title": "New tab"
             }
           }
         ]
@@ -162,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c0706abe0a48755",
+  "active": "7111acf6dce89449",
   "lastOpenFiles": [
+    "todo.md",
     "docker/overview.md",
     "docker/built a dockerfile.md",
     "python/overview.md",
