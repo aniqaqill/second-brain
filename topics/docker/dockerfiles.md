@@ -3,7 +3,8 @@ layout: default
 ---
 
 ## Built a Dockerfile
-![Anatomy of Dockerfile](../image/image.png)
+
+![Anatomy of Dockerfile](../image/image.png){: width="500" height="300"}
 
 ### **Docker Compose**: 
 Define and manage multi-container applications.

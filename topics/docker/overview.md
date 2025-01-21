@@ -40,7 +40,6 @@ While containerization has existed for decades, Docker (introduced in 2013) popu
 - Serve as the building blocks for containers.
 - Can be pulled from public or private repositories (e.g., Docker Hub).
 ### **Container** 
-
 - A runtime instance of a Docker image.
 - Packages an application’s code, dependencies, and libraries.
 - Solves the "it works on my machine" problem by ensuring consistency across environments.
