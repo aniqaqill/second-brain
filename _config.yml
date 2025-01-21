@@ -2,6 +2,9 @@ title: "Second Brain"
 description: "A bunch of Aniq's notes and write-ups about tech and anything I find interesting"
 theme: minima
 
+sass:
+  sass_dir: assets/css
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
