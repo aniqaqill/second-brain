@@ -25,77 +25,39 @@ While containerization has existed for decades, Docker (introduced in 2013) popu
 ---
 
 ## **Docker Terminologies**
-Here are the key Docker concepts you need to know:
 
 ### **Dockerfile**
 - A text file that defines how to build a Docker image.
 - Contains instructions for creating a lightweight, standalone, and executable package for running applications.
 - Enables consistent and repeatable image creation.
-
 ### **Docker Images**
 - Read-only templates used to create Docker containers.
 - Serve as the building blocks for containers.
 - Can be pulled from public or private repositories (e.g., Docker Hub).
-
 ### **Container** 
 
 - A runtime instance of a Docker image.
 - Packages an application’s code, dependencies, and libraries.
 - Solves the "it works on my machine" problem by ensuring consistency across environments.
-
 ### **Docker Repository**
 - A storage and distribution system for Docker images.
 - Can be hosted on public (e.g., Docker Hub) or private registries.
 - Speeds up CI/CD pipelines by providing a central repository for images.
-
 ### **Docker Volume**
 - A mechanism for persistent data storage in Docker containers.
 - Ensures data persists even if a container is destroyed or crashes.
-
 ### **Docker Compose**
 - A tool for defining and running multi-container Docker applications.
 - Uses a YAML file to configure application services, networks, and volumes.
-
 ### **Docker Hub**
 - A cloud-based registry service for storing and sharing Docker images.
 - Acts as a central repository for collaboration within the container community.
-
 ### **Docker Daemon (`dockerd`)**
 - A background process that manages Docker objects (containers, images, volumes, networks, etc.).
 - Stores all Docker-related data in a single directory.
-
 ### **Orchestration**
 - The process of automating the deployment, management, and scaling of containerized applications.
 - Examples: Kubernetes, Docker Swarm, Red Hat OpenShift.
 
----
 
-## **Dockerfile**
-![Anatomy of Dockerfile](../image/image.png)
-## **Docker Compose**: 
-Define and manage multi-container applications.
-## **Docker Multi-Stage Builds**: 
-Optimize Docker images by using multiple build stages.
-## **Docker Network Fundamentals**: 
-Learn how containers communicate with each other and the outside world.
-## **Traefik Proxy**: 
-A modern reverse proxy and load balancer for microservices. [Traefik Quick Start Guide](https://doc.traefik.io/traefik/getting-started/quick-start/)
-## **NGINX**: 
-A popular web server and reverse proxy often used in Docker environments.
-
----
-
-## **CI/CD (Continuous Integration/Continuous Deployment)**
-- **GitHub Actions**: Automate workflows for building, testing, and deploying Docker containers.
-- **Jenkins**: A powerful automation server for CI/CD pipelines, including Docker-based workflows.
-
----
-
-## **Container Orchestration**
-- **Kubernetes**: The most popular container orchestration platform for automating deployment, scaling, and management of containerized applications.
-
----
-
-## **Infrastructure as Code (IaC)**
-- **Terraform**: A tool for defining and provisioning infrastructure using code. Often used to manage Docker environments and orchestration platforms like Kubernetes.
 
