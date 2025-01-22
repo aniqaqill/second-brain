@@ -24,7 +24,7 @@ From the picture below, we can see that Docker uses a **Client-Server Architectu
 
 **Docker Objects**  
 
-> The relationship between images ( Image) and containers ( ) is like that between and Containerin object-oriented programming - [refference](https://yeasy.gitbook.io/docker_practice/basic_concept/container#:~:text=The%20relationship%20between%20images%20(%20Image)%20and%20containers%20(%20)%20is%20like%20that%20between%20and%20Containerin%20object%2Doriented%20programming)
+> The relationship between images ( Image) and containers ( ) is like that between and Containerin object-oriented programming - [reference](https://yeasy.gitbook.io/docker_practice/basic_concept/container#:~:text=The%20relationship%20between%20images%20(%20Image)%20and%20containers%20(%20)%20is%20like%20that%20between%20and%20Containerin%20object%2Doriented%20programming)
 
 
 This mainly refers to the relationship between **images** and **containers** is like . Why? Because images are static definitions, and containers are running instances of those images. Containers can be created, started, stopped, deleted, paused, etc. But it’s not limited to that.  

@@ -20,11 +20,13 @@ Here are the topics I’ve covered so far:
 
 1. **[Articles](./topics/articles/overview.md)** - A collection of projects, findings, and write-ups that I find interesting.
 
-2. **[Docker](./topics/docker/overview.md)** - Notes and guides on Docker
+2. **[Docker](./topics/docker/overview.md)** - Notes and undertanding on Docker
 
 3. **[Golang](./topics/golang/overview.md)** - My journey with Go
 
-4. **[Python](./topics/python/overview.md)** - Python tips
+4. **[Python](./topics/python/overview.md)** - Everything Python
+
+5. **[Javascript & Typescript](./topics/javascript/overview.md)** - Javascript and Typescript Things
 
 ## Contributing
 
