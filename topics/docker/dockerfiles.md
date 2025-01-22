@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "What I knwo about Dockerfile so far .."
+description: "What I know about Dockerfile so far .."
 ---
 
 ## Built a Dockerfile
@@ -13,7 +13,7 @@ Just in case you haven't done it yet, [install Docker](https://docs.docker.com/e
 
 Let's get started.
 
-![Anatomy of Dockerfile](../image/image.png)
+![Anatomy of Dockerfile](../image/dockerfile.png)
 
 As we can see, it consists of a few sections like **FROM, WORKDIR, COPY/ADD, RUN, EXPOSE, CMD/ENTRYPOINT**. Each of these has its own usage, as mentioned in the image.
 
