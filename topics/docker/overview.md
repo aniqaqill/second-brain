@@ -5,11 +5,13 @@ description: "An overview of Docker and containerization."
 ---
 
 ### List of Content  
-- [Built a Dockerfile](./dockerfiles.md)  
-- [Docker CheatSheet](./cheatsheet.md)  
+- [Docker CheatSheet](./cheatsheet.md) 
 - [Docker Architcture Detailed](./darchitecture.md)  
+- [Built a Dockerfile](./dockerfiles.md)   
+- [Docker Compose Up](./compose.md)  
 
-## **Docker Overview**  
+
+## **DockerOverview**  
 I won’t re-explain everything about Docker, but here are some key points that I think are important:  
 
 **So, Why Docker?**  

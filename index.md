@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to My Second Brain
+title: Second Brain
 description: A collection of notes and write-ups about tech and other interesting topics.
 ---
 
