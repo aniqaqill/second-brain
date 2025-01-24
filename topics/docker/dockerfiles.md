@@ -6,10 +6,9 @@ description: "What I know about Dockerfile so far .."
 ## Built a Dockerfile
 
 
-When I first started to learn about Docker, I literally had no idea what was happening until I tried to do something with it. So, it's best to start with something. Well, creating my own Dockerfile will probably help me to get started.  
-Of course, we need to [install Docker](https://docs.docker.com/engine/install/).  
+When I first started to learn about Docker, I literally had no idea what was happening until I start.Eventho it was wrong or basic atleast we haev a little experiences to it, Eventually it get better. So, it's best to start with something.  
 
-Before getting started, I just came to know that before creating a Dockerfile, there's an option to create the image layers using `docker container commit` and view it with `docker image history`.  
+Before getting started, I just came to know that before creating a Dockerfile, there's an option to create the image layers using `docker container commit` and view it with `docker image history`. This is just another way to ```Build an Image```
 
 Alright, let’s get started. The first few things we need to know are:  
 - A Dockerfile is used to create a container image.  
@@ -60,10 +59,10 @@ Some of the most common instructions in a Dockerfile include:
 
 I just learned that in an existing repository, you can create a Dockerfile by initializing `docker init`. It will analyze the project and quickly create a Dockerfile, a `compose.yml`, and other necessary files. [Read More](https://docs.docker.com/reference/cli/docker/init/).  
 
-But there’s always more to learn. Check out the [Dockerfile Reference](https://docs.docker.com/reference/dockerfile/), which provides every single instruction and description for each command. Even though it’s not necessary to use every one of them, it’s good to know and understand. It might be helpful in the future.  
+[Dockerfile Reference](https://docs.docker.com/reference/dockerfile/), which provides every single instruction and description for each command. Even though it’s not necessary to use every one of them, it’s good to know and understand. It might be helpful in the future.  
 
 Okay, I'm trying to understand what each of these actually does and what’s the best way to initialize it. One thing I know and understand is that **Multi-stage Builds** are one of the best practices for creating an image. Let’s learn about that too.  
 
-**TBC**  
+
 
 
