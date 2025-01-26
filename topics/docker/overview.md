@@ -6,7 +6,7 @@ description: "An overview of Docker and containerization."
 
 ### List of Content  
 - [Docker CheatSheet](./cheatsheet.md) 
-- [Docker Architcture Detailed](./darchitecture.md)  
+- [Docker Architecture Detailed](./darchitecture.md)  
 - [Built a Dockerfile](./dockerfiles.md)   
 - [Docker Compose Up](./compose.md)  
 

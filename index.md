@@ -26,7 +26,7 @@ Here are the topics I’ve covered so far:
 
 4. **[Python](./topics/python/overview.md)** - Everything Python
 
-5. **[Javascript & Typescript](./topics/javascript/overview.md)** - Javascript and Typescript Things
+5. **[Js & Ts](./topics/javascript/overview.md)** - Javascript and Typescript Things
 
 ## Contributing
 
