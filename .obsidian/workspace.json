@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "f71b41314e5e12ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "d749c65a4758d764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1e947e1d97d21e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74c6e8d310bb07d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7962da224356a23e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ba57744ea068187",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70defc331d53010f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa39f6e10ebf4c5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "298124c29ec158c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b96a9348ede8931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c26cc06166545f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7717b4e2021d059e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f730cffc99ce6759",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f235881335737079",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1e947e1d97d21e5",
+  "lastOpenFiles": [
+    "topics/image/airflow/k8s executor.png",
+    "topics/image/airflow/celery-exec.png",
+    "topics/image/airflow/airflow-ui.png",
+    "topics/image/airflow/terminologies.task.png",
+    "topics/image/airflow/terminologies.dag.png",
+    "topics/image/airflow/Pasted image 20250130195649.png",
+    "topics/image/airflow/Pasted image 20250130195443.png",
+    "topics/image/airflow/Pasted image 20250130195300.png",
+    "topics/image/airflow/Pasted image 20250130195239.png",
+    "topics/image/airflow/Pasted image 20250130194755.png",
+    "topics/image/airflow/Pasted image 20250130191904.png",
+    "topics/image/airflow",
+    "topics/python/learn-airflow.md",
+    "topics/python/airflow.md"
+  ]
+}

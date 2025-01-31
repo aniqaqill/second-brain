@@ -4,7 +4,7 @@ description: "Dive to Airflow with 0 exp .."
 ---
 
 <div style="text-align: center;">
-  <img src="../image/airflow-logo.png" alt="Airflow Logo" style="width: 80%; max-width: 500px;">
+  <img src="../image/airflow/airflow-logo.png" alt="Airflow Logo" style="width: 80%; max-width: 500px;">
 </div>
 
 ## What is Airflow ? 
