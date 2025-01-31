@@ -20,7 +20,7 @@ Here are the topics I’ve covered so far:
 
 1. **[Articles](./topics/articles/overview.md)** - A collection of projects, findings, and write-ups that I find interesting.
 
-2. **[Docker](./topics/docker/overview.md)** - Notes and undertanding on Docker
+2. **[Docker](./topics/docker/overview.md)** - Notes and understanding on Docker
 
 3. **[Golang (Soon)](./topics/golang/overview.md)** - My journey with Go
 
