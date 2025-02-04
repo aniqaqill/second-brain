@@ -88,6 +88,7 @@ Easy if you use `Docker Compose`
 ## My Airflow Learning
 
 - [Learn Airflow](./learn-airflow.md) 
+- [Awesome Airflow Github](https://github.com/jghoman/awesome-apache-airflow)
 
 ## Referrence
 

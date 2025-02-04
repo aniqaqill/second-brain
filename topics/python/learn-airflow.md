@@ -99,6 +99,5 @@ Example of UI:
   <img src="../image/airflow/k8s-executor.png" alt="K8s Executor" style="width: 50%; max-width: 300px;">
 </div>
 
-## Minimal Setup
 
-tbc
+
