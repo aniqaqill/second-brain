@@ -3,6 +3,8 @@ layout: default
 ---
 # Java Development Overview
 
+- [Linux Foundation](https://killercoda.com/pawelpiwosz/course/linuxFundamentals)
+
 ## Day 1: Java Development
 **Focus**: Brush up on Java (especially backend/server-side development).
 
