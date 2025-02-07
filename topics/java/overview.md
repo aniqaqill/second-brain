@@ -4,6 +4,10 @@ layout: default
 # Java Development Overview
 
 - [Linux Foundation](https://killercoda.com/pawelpiwosz/course/linuxFundamentals)
+- [Java Syntax](https://www.w3schools.com/java/java_getstarted.asp)
+- [Apache Kafka](https://javarevisited.substack.com/p/what-is-kafka-architecture-deep-dive)
+- [Jenkins Docs](https://www.jenkins.io/doc/book/getting-started/)
+- [Stream in Java](https://www.geeksforgeeks.org/stream-in-java/)
 
 ## Day 1: Java Development
 **Focus**: Brush up on Java (especially backend/server-side development).
