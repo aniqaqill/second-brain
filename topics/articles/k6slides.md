@@ -15,12 +15,13 @@ footer: "PayNet Data Lake & Analytics | Aniq Aqil"
 
 1. What is k6 ?
 2. What is Load testing ? 
-3. Types of Load Tests
-4. Automation of performance tests
-5. Chaos and resilience testing
-6. Infrastructure testing
-7. QuickPizza Demo
-8. Data-Gateway Current Workflow
+3. Why Do Performance Testing?
+4. Load Testing vs. Performance Testing
+5. Load Test Scenarios/Types
+6. Chaos and resilience testing
+7. Infrastructure testing
+8. QuickPizza Demo
+9. Data-Gateway Current Workflow
 
 ---
 
