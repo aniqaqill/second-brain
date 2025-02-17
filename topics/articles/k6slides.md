@@ -18,10 +18,9 @@ footer: "PayNet Data Lake & Analytics | Aniq Aqil"
 3. Why Do Performance Testing?
 4. Load Testing vs. Performance Testing
 5. Load Test Scenarios/Types
-6. Chaos and resilience testing
-7. Infrastructure testing
-8. QuickPizza Demo
-9. Data-Gateway Current Workflow
+6. Chaos and Infrastructure testing
+7. QuickPizza Demo
+8. Data-Gateway Current Workflow
 
 ---
 
@@ -48,6 +47,7 @@ footer: "PayNet Data Lake & Analytics | Aniq Aqil"
 - Prepare for unexpected demand.
 - Increase confidence in the application.
 - Assess and optimize infrastructure.
+
 ---
 
 ## Common Excuses & Counterpoints:
@@ -106,14 +106,38 @@ Load test scenarios are often called load test types. Some of the most common sc
 
 ---
 
-# High-Level Overview of Load Testing Process
+# Demo by Grafana Labs
 
 ---
 
-# Point of Refferences
+# Demo by Grafana Labs
 
+This demo is provided by grafana labs itself. Was named QuickPizza demo app. 
+
+- [k6-workshop](https://github.com/aniqaqill/k6-oss-workshop)
+- [QuickPizza](https://github.com/grafana/quickpizza)
+
+Lets go through the demo !
+
+
+---
+
+# How data-gateway utilized k6
+
+
+---
+
+# Extras: Chaos testing 
+
+---
+
+# Sources
+
+- [k6 Learn](https://github.com/grafana/k6-learn)
 - [Awesome k6](https://github.com/grafana/awesome-k6)
 - [k6 OSS Workshop](https://github.com/grafana/k6-oss-workshop?tab=readme-ov-file#before-we-start)
 - [Load Testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb)
+- [k6 Operator for K8s](https://github.com/grafana/k6-learn/blob/main/Modules/XX-Future-Ideas/How-to-use-the-k6-operator-for-Kubernetes.md)
 - [Chaos testing with k6 and Friends](https://www.youtube.com/watch?v=2QHs_HEX7r0)
+- [Chai with k6](https://grafana.com/docs/k6/latest/testing-guides/use-chai-with-k6/)
 
