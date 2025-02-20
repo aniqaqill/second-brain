@@ -84,11 +84,27 @@ Load test scenarios are often called load test types. Some of the most common sc
 
 ---
 
-- **Shakeout Test**: Small test to check for major issues.
+##### Shakeout Test 
+
+**Small test to check for major issues.**
+Sometimes known as a smoke test, checks for major issues before spending more time and resources.
+
+- Typically uses one or a few VUs that run for a short amount of time . If **test fails** any issues must be resolved first. 
+
+```js
+Name: Shakeout Test
+Total VUs: 5	
+Ramp-up: 0 seconds	
+Duration: 10 minutes
+Ramp-Down: 0 seconds
+```
+
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/shakeout.png)
 
 ---
 
-- **Average Load Test**: Simulates typical production load.
+#### Average Load Test**: Simulates typical production load.
+
 
 ---
 
