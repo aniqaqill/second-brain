@@ -103,7 +103,9 @@ Ramp-Down: 0 seconds
 
 ---
 
-#### Average Load Test**: Simulates typical production load.
+##### Average Load Test
+
+ Simulates typical production load.
 
 
 ---
