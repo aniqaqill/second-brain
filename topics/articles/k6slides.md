@@ -67,10 +67,12 @@ footer: "PayNet Data Lake & Analytics | Aniq Aqil"
                 Performance testing != Load testing 
 ```
 
-<h6>
-- Performance testing verifies how well a system works as a whole, including aspects such as scalability, elasticity, availability, reliability, resiliency, and latency. </br> - Load testing is just one type of performance testing, and it is an approach that can be used to test many of aspects of application performance. However, not all performance testing involves load testing. </br>
+
+- Performance testing verifies how well a system works as a whole, including aspects such as scalability, elasticity, availability, reliability, resiliency, and latency. 
+
+- Load testing is just one type of performance testing, and it is an approach that can be used to test many of aspects of application performance. However, not all performance testing involves load testing.
+
 - Load testing is a sub-practice of performance testing.
-<h6>
 
 ---
 
@@ -135,10 +137,11 @@ Hello from mars :satellite:
 # Sources
 
 - [k6 Learn](https://github.com/grafana/k6-learn)
-- [Awesome k6](https://github.com/grafana/awesome-k6)
 - [k6 OSS Workshop](https://github.com/grafana/k6-oss-workshop?tab=readme-ov-file#before-we-start)
+- [Awesome k6](https://github.com/grafana/awesome-k6)
 - [Load Testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb)
 - [k6 Operator for K8s](https://github.com/grafana/k6-learn/blob/main/Modules/XX-Future-Ideas/How-to-use-the-k6-operator-for-Kubernetes.md)
 - [Chaos testing with k6 and Friends](https://www.youtube.com/watch?v=2QHs_HEX7r0)
+- [Basic k6 Load Testing Setup](https://youtu.be/XR2MAivt-9E?si=IlauKGqcsVKGx3rC)
 - [Chai with k6](https://grafana.com/docs/k6/latest/testing-guides/use-chai-with-k6/)
 
