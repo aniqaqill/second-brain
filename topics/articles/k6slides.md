@@ -167,11 +167,30 @@ Total duration: 520 minutes (8 hours and 40 minutes)
 
 ---
 
-- **Spike Test**: Simulates sudden traffic spikes.
+##### Spike Test : 
+
+A spike test, recreates a situation where the application experiences a sudden and massive increase in traffic. Spike tests are good for simulating timed events like:
+
+- product launches or sale of concert tickets
+- deadlines (last days of tax submissions)
+
+```js
+Name: Spike Test	
+Total VUs: 300
+Ramp-up: 1 minute
+Steady state: 20 minutes
+Ramp-down: 5 minutes
+Total duration: 26 minutes
+```
+
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/spike.png)
 
 ---
 
-- **Breakpoint Test**: Identifies the load level at which performance degrades.
+##### Breakpoint Test : 
+Identifies the load level at which performance degrades.
+
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/breakpoint.png)
 
 ---
 
