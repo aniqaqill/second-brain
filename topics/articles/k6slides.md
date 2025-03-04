@@ -119,8 +119,19 @@ Ramp-Down: 0 seconds
 
 ##### Average Load Test
 
- Simulates typical production load.
+ Simulates typical production load. Typically includes ramp-up and ramp-down periods to siumalet users gradually loggin in and interact with the system. 
+ The test sustains the steady-state load siumlation for an hour or so.
 
+ ```js
+ Name: Average Load Test
+Total VUs: 100	
+Ramp-up: 30 minutes
+Steady state: 60 minutes
+Ramp-down: 10 minutes
+Total duration: 100 minutes
+```
+
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/avgload.png)
 
 ---
 
