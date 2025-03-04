@@ -3,11 +3,11 @@ marp: true
 footer: "PayNet Data Lake & Analytics | Aniq Aqil" 
 ---
 
-![w:60 h:60](../image/k6logo.png) ![w:60 h:60](../image/grafanalogo.png)
+![w:60 h:60](../image/k6/k6logo.png) ![w:60 h:60](../image/k6/grafanalogo.png)
 
 # Introduction to k6 
 
-![bg right:60% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/testcode.png)
+![bg right:60% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/testcode.png)
 
 ---
 
@@ -82,7 +82,7 @@ A load test scenario combines specific values of test parameters. Each scenario 
 
 Load test scenarios are often called load test types. Some of the most common scenarios are listed here.
 
-![margin-right: 90% ](../image/testtypes.png)
+![margin-right: 90% ](../image/k6/testtypes.png)
 
 ---
 
@@ -115,7 +115,7 @@ Duration: 10 minutes
 Ramp-Down: 0 seconds
 ```
 
-![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/shakeout.png)
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/shakeout.png)
 
 ---
 
@@ -133,7 +133,7 @@ Ramp-down: 10 minutes
 Total duration: 100 minutes
 ```
 
-![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/avgload.png)
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/avgload.png)
 
 ---
 
@@ -142,7 +142,7 @@ simulates the traffic that the application is expected to experience at the high
 
 a good test scenario when testing rush hours or sale periods during which the application faces abnormally heavy load.
 
-![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/stress.png)
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/stress.png)
 
 ---
 
@@ -163,7 +163,7 @@ Total duration: 520 minutes (8 hours and 40 minutes)
 ```
 
 
-![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/soak.png)
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/soak.png)
 
 ---
 
@@ -183,18 +183,14 @@ Ramp-down: 5 minutes
 Total duration: 26 minutes
 ```
 
-![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/spike.png)
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/spike.png)
 
 ---
 
 ##### Breakpoint Test : 
 Identifies the load level at which performance degrades.
 
-![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/breakpoint.png)
-
----
-
-# Demo by Grafana Labs
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/breakpoint.png)
 
 ---
 
