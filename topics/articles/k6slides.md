@@ -18,9 +18,9 @@ footer: "PayNet Data Lake & Analytics | Aniq Aqil"
 3. Why Do Performance Testing?
 4. Load Testing vs. Performance Testing
 5. Load Test Scenarios/Types
-6. Chaos and Infrastructure testing
-7. QuickPizza Demo
-8. Data-Gateway Current Workflow
+6. QuickPizza Demo
+7. Data-Gateway Current Workflow
+8. QnA
 
 ---
 
@@ -188,7 +188,17 @@ Total duration: 26 minutes
 ---
 
 ##### Breakpoint Test : 
-Identifies the load level at which performance degrades.
+Identifies the load level at which performance degrades and build confidence in what a system can handle. 
+The results from breakpoint tests provide valuable inputs for capacity planning.
+
+```js
+Name: Breakpoint Test	
+Total max VUs: unknown
+Ramp-up: 10 minutes before each stage
+Steady state: 30 minutes
+Ramp-down: 0 minutes
+Total duration: unknown
+```
 
 ![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/k6/breakpoint.png)
 
@@ -207,12 +217,6 @@ Lets go through the demo !
 ---
 
 # How data-gateway utilized k6
-
----
-
-# Extras: Chaos testing 
-
-Hello from mars :satellite:
 
 ---
 
