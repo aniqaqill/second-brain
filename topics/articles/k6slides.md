@@ -82,6 +82,8 @@ A load test scenario combines specific values of test parameters. Each scenario 
 
 Load test scenarios are often called load test types. Some of the most common scenarios are listed here.
 
+![margin-right: 90% ](../image/testtypes.png)
+
 ---
 
 ##### Test parameters
@@ -135,11 +137,33 @@ Total duration: 100 minutes
 
 ---
 
-- **Stress Test**: Simulates peak load conditions.
+##### Stress Test
+simulates the traffic that the application is expected to experience at the highest point of the day or season. 
+
+a good test scenario when testing rush hours or sale periods during which the application faces abnormally heavy load.
+
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/stress.png)
 
 ---
 
-- **Soak Test**: Long-duration test to identify degradation over time.
+##### Soak Test : 
+
+Soak tests, also called endurance tests, 
+
+- Tests with a longer duration than average. 
+- Some performance bottlenecks, such as ones caused by defects in memory management, appear only during longer periods of time. 
+
+```js
+Name: Soak Test
+Total VUs: 50
+Ramp-up: 30 minutes
+Steady state: 480 minutes
+Ramp-down: 10 minutes
+Total duration: 520 minutes (8 hours and 40 minutes)
+```
+
+
+![bg right:40% margin-right: 90% drop-shadow:0,5px,10px,rgba(0,0,0,0.6)](../image/soak.png)
 
 ---
 
