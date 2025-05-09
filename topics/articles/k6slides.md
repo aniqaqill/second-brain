@@ -1,6 +1,8 @@
 ---
 marp: true
 footer: "https://github.com/aniqaqill 🕸️" 
+layout: default
+description: "k6 Brief introduction for Perfomance Testing"
 ---
 <!-- 
 ![w:60 h:60](../image/k6/k6logo.png) ![w:60 h:60](../image/k6/grafanalogo.png) -->
