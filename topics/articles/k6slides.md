@@ -2,8 +2,8 @@
 marp: true
 footer: "https://github.com/aniqaqill 🕸️" 
 ---
-
-![w:60 h:60](../image/k6/k6logo.png) ![w:60 h:60](../image/k6/grafanalogo.png)
+<!-- 
+![w:60 h:60](../image/k6/k6logo.png) ![w:60 h:60](../image/k6/grafanalogo.png) -->
 
 # Introduction to k6 
 
