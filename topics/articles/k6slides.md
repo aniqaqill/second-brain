@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: "PayNet Data Lake & Analytics | Aniq Aqil" 
+footer: "https://github.com/aniqaqill 🕸️" 
 ---
 
 ![w:60 h:60](../image/k6/k6logo.png) ![w:60 h:60](../image/k6/grafanalogo.png)
@@ -19,8 +19,6 @@ footer: "PayNet Data Lake & Analytics | Aniq Aqil"
 4. Load Testing vs. Performance Testing
 5. Load Test Scenarios/Types
 6. QuickPizza Demo
-7. Data-Gateway Current Workflow
-8. QnA
 
 ---
 
@@ -211,15 +209,7 @@ This demo is provided by grafana labs itself. Was named QuickPizza demo app.
 - [k6-workshop](https://github.com/aniqaqill/k6-oss-workshop)
 - [QuickPizza](https://github.com/grafana/quickpizza)
 
-Lets go through the demo !
-
-
 ---
-
-# How data-gateway utilized k6
-
----
-
 # Sources
 
 - [k6 Learn](https://github.com/grafana/k6-learn)
