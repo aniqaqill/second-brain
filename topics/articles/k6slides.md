@@ -209,6 +209,8 @@ This demo is provided by grafana labs itself. Was named QuickPizza demo app.
 - [k6-workshop](https://github.com/aniqaqill/k6-oss-workshop)
 - [QuickPizza](https://github.com/grafana/quickpizza)
 
+Somehow k6-workshop need minor fix to run the test can view [this issues for solution](https://github.com/grafana/k6-oss-workshop/issues/4#issuecomment-2663246289)
+
 ---
 # Sources
 
