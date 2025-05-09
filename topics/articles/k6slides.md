@@ -88,7 +88,7 @@ Load test scenarios are often called load test types. Some of the most common sc
 
 ---
 
-##### Test parameters
+### Test parameters
 
 This are the non-exhaustive list of common test parameters:
 
@@ -102,7 +102,7 @@ This are the non-exhaustive list of common test parameters:
 
 ---
 
-##### Shakeout Test 
+### Shakeout Test 
 
 **Small test to check for major issues.**
 Sometimes known as a smoke test, checks for major issues before spending more time and resources.
@@ -121,7 +121,7 @@ Ramp-Down: 0 seconds
 
 ---
 
-##### Average Load Test
+### Average Load Test
 
  Simulates typical production load. Typically includes ramp-up and ramp-down periods to siumalet users gradually loggin in and interact with the system. 
  The test sustains the steady-state load siumlation for an hour or so.
@@ -139,7 +139,7 @@ Total duration: 100 minutes
 
 ---
 
-##### Stress Test
+### Stress Test
 simulates the traffic that the application is expected to experience at the highest point of the day or season. 
 
 a good test scenario when testing rush hours or sale periods during which the application faces abnormally heavy load.
@@ -148,7 +148,7 @@ a good test scenario when testing rush hours or sale periods during which the ap
 
 ---
 
-##### Soak Test : 
+### Soak Test : 
 
 Soak tests, also called endurance tests, 
 
@@ -169,7 +169,7 @@ Total duration: 520 minutes (8 hours and 40 minutes)
 
 ---
 
-##### Spike Test : 
+### Spike Test : 
 
 A spike test, recreates a situation where the application experiences a sudden and massive increase in traffic. Spike tests are good for simulating timed events like:
 
@@ -189,7 +189,7 @@ Total duration: 26 minutes
 
 ---
 
-##### Breakpoint Test : 
+### Breakpoint Test : 
 Identifies the load level at which performance degrades and build confidence in what a system can handle. 
 The results from breakpoint tests provide valuable inputs for capacity planning.
 
