@@ -22,13 +22,14 @@ Here are the topics I’ve covered so far:
 
 2. **[Docker](./topics/docker/overview.md)** - Notes and understanding on Docker
 
-3. **[Golang (Soon)](./topics/golang/overview.md)** - Learning Go
+<!-- 3. **[Golang (Soon)](./topics/golang/overview.md)** - Learning Go -->
 
-4. **[Python](./topics/python/overview.md)** - Everything Python
+<!-- 
+4. **[Python](./topics/python/overview.md)** - Everything Python -->
 
-5. **[Js & Ts (Soon)](./topics/javascript/overview.md)** - Javascript and Typescript Things
+<!-- 5. **[Js & Ts (Soon)](./topics/javascript/overview.md)** - Javascript and Typescript Things -->
 
-6. **[Java](./topics/java/overview.md)** - Java Journey
+<!-- 6. **[Java](./topics/java/overview.md)** - Java Journey -->
 
 ## Contributing
 
